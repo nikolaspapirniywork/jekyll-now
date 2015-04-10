@@ -21,6 +21,7 @@ Example:
 ```
 src/main/test/java/com/thinkascoder/week1/handsOn/HandsOnHandsOn.java
 ```  
+
  ![an image alt text]({{ site.baseurl }}/images/data_types_test/5.png "an image title")
  
  ![an image alt text]({{ site.baseurl }}/images/data_types_test/6.png "an image title")
