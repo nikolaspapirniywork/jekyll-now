@@ -40,7 +40,7 @@ src/main/test/java/com/thinkascoder/week1/handsOn/HandsOnHandsOn.java
  - SimpleCalculator
 
 ## D. Results  
-Solution send to nikolaspapirniywork@gmail.com containing
+Solution send to nikolaspapirniywork@gmail.com containing  
 * Archive with solved homework
 * Time spend on each file
 * Problems/mistakes/ideas/comments about tasks
