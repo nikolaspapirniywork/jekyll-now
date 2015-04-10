@@ -5,7 +5,7 @@ published: true
 ---
 
 
-## Step 1: download project
+## Step 1: download project [week1](https://github.com/nikolaspapirniywork/java_beginner_course/tree/week1)
 
 ![an image alt text]({{ site.baseurl }}/images/data_types_test/1.png "an image title")
 
