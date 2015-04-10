@@ -6,7 +6,7 @@ published: true
 
 ## A. Download and import project
 
-### Download project [week1](https://github.com/nikolaspapirniywork/java_beginner_course/tree/week1)
+### Step 1: Download project [week1](https://github.com/nikolaspapirniywork/java_beginner_course/tree/week1)
 
 ![an image alt text]({{ site.baseurl }}/images/data_types_test/1.png "an image title")
 
@@ -38,3 +38,9 @@ src/main/test/java/com/thinkascoder/week1/handsOn/HandsOnHandsOn.java
  - FriendlyGreeting
  - FootsToMeters
  - SimpleCalculator
+
+## D. Results  
+Solution send to nikolaspapirniywork@gmail.com:
+* Archive with solved homework
+* Time spend on each file
+* Problems/mistakes/ideas/comments about tasks
